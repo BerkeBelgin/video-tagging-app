@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:video_editor/globals/app_theme.dart';
 import 'package:video_editor/models/box_overlay.dart';
 
 class BoxOverlayPainter extends CustomPainter {
